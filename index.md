@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Anang Syamsu
 
-You can use the [editor on GitHub](https://github.com/anangsyamsu/anangsyamsu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+nama lengkap : M. Anang Syamsu Nihar. lahir di Kota Tuban Jawa Timur Indonesia pada 31 juli 1997. Saya aktif di bidang lukis sejak tahun 2016 sampai sekarang,  beberapa karya dan prestasi telah saya dapat. ada beberapa bidang dan media saya menuangkan ide dalam gambar atau lukisan, diantaranya : digital drawing (desain kaos, ilustrasi, logo, karikatur, dan lain-lain), manual drawing (lukis wajah, realis, lukis kanvas, mural,) dekorasi panggung (seminar, konser, dan lain-lain).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### skills
 
-### Markdown
+- Digital Painting
+- Manual Drawing
+- Decoration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### portofolio
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anangsyamsu/anangsyamsu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[portofolio](https://www.instagram.com/p/B7dz2TzJDpo/?utm_source=ig_web_button_share_sheet)
